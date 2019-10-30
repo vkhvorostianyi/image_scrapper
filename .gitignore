@@ -1,0 +1,8 @@
+token.pickle
+credentials.json
+*.pyc
+.DS_Store
+.idea
+*.json
+*.png
+*.jpg
